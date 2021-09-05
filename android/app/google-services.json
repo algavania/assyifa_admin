@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "798471618272",
+    "project_id": "chatbot-324309",
+    "storage_bucket": "chatbot-324309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798471618272:android:b98c28e7c2d53d26915a85",
+        "android_client_info": {
+          "package_name": "com.assyifa.assyifa_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798471618272-lj6p4huhidjim184070cvq9o5tfvnrdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrnmkEmjvZkcLn8JLRC_rTbDg8n-LmdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798471618272-lj6p4huhidjim184070cvq9o5tfvnrdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798471618272:android:20c90f0936a16ce9915a85",
+        "android_client_info": {
+          "package_name": "com.assyifa.assyifa_chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798471618272-eoc39mboefde27a4uif6e4esm0jd0qm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assyifa.assyifa_chatbot",
+            "certificate_hash": "e8c85683775fae54e20cdf4cafc2423e5c9a4731"
+          }
+        },
+        {
+          "client_id": "798471618272-lj6p4huhidjim184070cvq9o5tfvnrdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrnmkEmjvZkcLn8JLRC_rTbDg8n-LmdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798471618272-lj6p4huhidjim184070cvq9o5tfvnrdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
