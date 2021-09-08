@@ -118,18 +118,11 @@ class _AddContactState extends State<AddContact> {
       ),
     );
 
-    // Custom Toast Position
     fToast.showToast(
-        child: toast,
-        toastDuration: Duration(seconds: 2),
-        gravity: ToastGravity.BOTTOM,
-        positionedToastBuilder: (context, child) {
-          return Positioned(
-            child: child,
-            bottom: 16.0,
-            left: 16.0,
-          );
-        });
+      child: toast,
+      gravity: ToastGravity.BOTTOM,
+      toastDuration: Duration(seconds: 2),
+    );
   }
 
   @override
